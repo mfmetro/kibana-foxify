@@ -1,0 +1,19 @@
+{
+   "content_scripts": [ {
+      "js": [ "background.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   
+   "description": "Moves the autocomplete dialog in Kibana to make the input field visible again (see https://github.com/elastic/kibana/issues/7801)",
+   
+   "manifest_version": 2,
+   "name": "Kibana Foxify",
+   "permissions": [ "http://*/*", "https://*/*" ],
+   
+   "version": "1.0.2",
+
+   "icons": {
+      "48": "icons/icon-48.png",
+      "96": "icons/icon-96.png"
+   }
+}
