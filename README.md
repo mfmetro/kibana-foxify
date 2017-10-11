@@ -10,7 +10,7 @@ There are multiple was to install this addon. Installing from the signed `xpi` i
 
 ### From XPI File
 
-Install Kibana Foxify from [latest release page]{https://github.com/mfmetro/kibana-foxify/releases/latest}. Click on the `xpi` file you find there and Firefox should automatically ask you to add it to your addons. If this is not the case, just download the file and drag&drop it into your running Firefox instance.
+Install Kibana Foxify from [latest release page](https://github.com/mfmetro/kibana-foxify/releases/latest). Click on the `xpi` file you find there and Firefox should automatically ask you to add it to your addons. If this is not the case, just download the file and drag&drop it into your running Firefox instance.
 
 ### Debugging
 
